@@ -8,7 +8,7 @@
 
 Clone this repo to `~/.hyper_plugins/local/`
 
-Add `theme-launchbase-hyper` to the localPlugins list in your `~/.hyper.js` config file.
+Add `hyper-dark-purple` to the localPlugins list in your `~/.hyper.js` config file.
 
 ```sh
     localPlugins: [
