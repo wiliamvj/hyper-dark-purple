@@ -6,10 +6,11 @@
   "description": "The best theme for Hyper",
   "keywords": [
     "hyperterm",
+    "hyperterm-theme",
     "hyper",
-    "hyper.app",
-    "hyper Purple",
-    "hyper theme"
+    "hyper-theme",
+    "colors",
+    "theme"
   ],
   "author": "Wiliam V. Joaquim <wiliamjoaquim@gmail.com>",
   "license": "MIT"
