@@ -1,0 +1,16 @@
+{
+  "name": "hyper-dark-purple",
+  "version": "0.0.1",
+  "main": "index.js",
+  "homepage": "https://github.com/maykbrito/theme-launchbase-hyper",
+  "description": "The best theme for Hyper",
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "hyper Purple",
+    "hyper theme"
+  ],
+  "author": "Wiliam V. Joaquim <wiliamjoaquim@gmail.com>",
+  "license": "MIT"
+}
