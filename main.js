@@ -1,7 +1,7 @@
 'use strict';
 
 const backgroundColor = '#10002b';
-const foregroundColor = '#5a189a';
+const foregroundColor = '#50fa7b';
 const borderColor = '#7b2cbf';
 const cursorColor = '#7b2cbf';
 const selectionColor = '#7b2cbf';
